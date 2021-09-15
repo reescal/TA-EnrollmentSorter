@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnrollmentSorter", "EnrollmentSorter.csproj", "{8D176DB3-567D-44BA-9266-5435C6B0DE51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnrollmentSorterTests", "..\EnrollmentSorterTests\EnrollmentSorterTests.csproj", "{2DE4AAAF-B296-4EAB-AA4E-39CA587BC031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D176DB3-567D-44BA-9266-5435C6B0DE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D176DB3-567D-44BA-9266-5435C6B0DE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D176DB3-567D-44BA-9266-5435C6B0DE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D176DB3-567D-44BA-9266-5435C6B0DE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE4AAAF-B296-4EAB-AA4E-39CA587BC031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE4AAAF-B296-4EAB-AA4E-39CA587BC031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE4AAAF-B296-4EAB-AA4E-39CA587BC031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE4AAAF-B296-4EAB-AA4E-39CA587BC031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B35FCA-9CCD-4610-A324-03C2D461F221}
+	EndGlobalSection
+EndGlobal
